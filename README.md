@@ -60,12 +60,7 @@ Use [@BotFather](https://t.me/BotFather) on Telegram to create a bot and obtain 
 ### ✅ Step 3: Activate Your Telegram Bot
 
 1. **Run Activation URL in Browser**  
-Visit:
-https://yourdomain.com/tg.php
-
-yaml
-Copy
-Edit
+Visit: https://yourdomain.com/tg.php
 
 2. **Done!**  
 Your Telegram bot is now active and will start sending payment alerts to your configured group or user.
@@ -78,7 +73,7 @@ Automate payment status fetching using cronjobs.
 
 ### ⚙️ For cPanel
 
-Set **time interval to every 1 minute** for any one of the following:
+1. Set **time interval to every 1 minute** for any one of the following:
 
 wget --spider -O - https://yourdomain.com/crons/cron.php >/dev/null 2>&1
 
