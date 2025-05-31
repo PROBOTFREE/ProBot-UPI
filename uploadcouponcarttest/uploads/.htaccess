@@ -1,8 +1,0 @@
-# Block web access to all files in this folder
-
-<FilesMatch "secure_download.php">
-    Order Allow,Deny
-    Allow from all
-</FilesMatch>
-
-Options -Indexes
