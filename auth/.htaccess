@@ -1,0 +1,20 @@
+RewriteEngine On
+
+
+# Deny access to everyone
+##Order Deny,Allow
+#Deny from all
+
+# Stop Indexing if someone does
+Options -Indexes
+
+Header always edit Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+
+
+# Allow access only from the specific IP address
+#Allow from 2409:40d4:fe:fa4a:8000::
+
+# Rewrite URLs without .php extension to .php files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)/?$ $1.php [L]

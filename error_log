@@ -1,0 +1,41 @@
+
+[02-Mar-2025 18:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:34:31 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/praiseth/public_html/couponcart/demo.php on line 26
+[02-Mar-2025 18:41:54 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/praiseth/public_html/couponcart/demo.php on line 26
+[02-Mar-2025 18:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:47:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 18:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/praiseth/public_html/couponcart/demo.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/demo.php on line 27
+[02-Mar-2025 19:03:33 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/praiseth/public_html/couponcart/demo.php on line 30
+[02-Mar-2025 19:18:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/praiseth/public_html/couponcart/demo.php on line 28

@@ -1,0 +1,80 @@
+
+[27-Mar-2025 10:24:27 UTC] PHP Warning:  Undefined variable $run in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:24:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/couponca/public_html/auth/index.php:93
+Stack trace:
+#0 /home/couponca/public_html/auth/index.php(93): mysqli_num_rows()
+#1 {main}
+  thrown in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:26:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:26:44 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/couponca/public_html/auth/index.php on line 142
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:26:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:26:51 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/couponca/public_html/auth/index.php on line 142
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 93
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 94
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 95
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 96
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 97
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 98
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 99
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Undefined variable $row in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:27:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/auth/index.php on line 100
+[27-Mar-2025 10:27:21 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/couponca/public_html/auth/index.php on line 142
+[28-Mar-2025 07:19:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'phoneNumber' in 'where clause' in /home/couponca/public_html/auth/upisettings.php:151
+Stack trace:
+#0 /home/couponca/public_html/auth/upisettings.php(151): mysqli_query()
+#1 {main}
+  thrown in /home/couponca/public_html/auth/upisettings.php on line 151
+[28-Mar-2025 07:22:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home/couponca/public_html/auth/upisettings.php:152
+Stack trace:
+#0 /home/couponca/public_html/auth/upisettings.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/couponca/public_html/auth/upisettings.php on line 152
+[28-Mar-2025 07:22:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home/couponca/public_html/auth/upisettings.php:152
+Stack trace:
+#0 /home/couponca/public_html/auth/upisettings.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/couponca/public_html/auth/upisettings.php on line 152
+[28-Mar-2025 07:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home/couponca/public_html/auth/upisettings.php:152
+Stack trace:
+#0 /home/couponca/public_html/auth/upisettings.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/couponca/public_html/auth/upisettings.php on line 152
+[31-Mar-2025 11:42:31 UTC] PHP Fatal error:  Cannot redeclare generateRandomSecretKey() (previously declared in /home/couponca/public_html/pages/dbFunctions.php:100) in /home/couponca/public_html/auth/api_keys.php on line 88
+[31-Mar-2025 11:42:43 UTC] PHP Fatal error:  Cannot redeclare generateRandomSecretKey() (previously declared in /home/couponca/public_html/pages/dbFunctions.php:100) in /home/couponca/public_html/auth/api_keys.php on line 88

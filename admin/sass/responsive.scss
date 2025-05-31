@@ -1,0 +1,122 @@
+
+/* Responsive */
+
+
+/* Toogle in responsive */
+@media only screen and (max-width: 1199px) {
+	.table-responsive {
+		white-space: nowrap;
+	}
+	.sidebar-wrapper {
+		left: -260px;
+		.sidebar-header {
+			.sidebar-close {
+				display: flex;
+			}
+		}
+	}
+	.top-header {
+		.navbar {
+			left: 0;
+		}
+	}
+	.page-content {
+		margin-left: 0;
+	}
+	.toggled {
+		.sidebar-wrapper {
+			width: 260px;
+			left: 0px;
+			.sidebar-header {
+				width: 260px;
+			}
+			.sidebar-bottom {
+				width: 260px;
+			}
+		}
+		.logo-name {
+			display: block;
+		}
+		.top-header {
+			.navbar {
+				left: 0px;
+			}
+		}
+		.page-footer {
+			left: 0px;
+		}
+		.main-wrapper {
+			margin-left: 0;
+		}
+		.overlay {
+			position: fixed;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: #000;
+			opacity: .5;
+			z-index: 11;
+			display: block;
+			cursor: move;
+			transition: all .23s ease-out;
+		}
+	}
+}
+
+
+
+
+  @media only screen and (max-width: 1199px) {
+
+
+    .top-header { 
+      .navbar {
+        left: 0;
+        .dropdown {
+            position: static;
+            .dropdown-menu {
+                width: 100%;
+                &::after {
+                    display: none;
+                }
+            }
+        }
+        .mega-menu-widgets {
+            padding: 1rem;
+            position: relative;
+            height: 480px;
+            overflow-y: auto;
+            overflow-x: hidden;
+          }
+      }
+    }
+
+    .main-wrapper {
+      margin-left: 0;
+    }
+
+    /*page footer*/
+
+    .page-footer {
+    
+        left: 0px;
+    }
+
+    /*mini sidebar*/
+
+    .mini-sidebar {
+        left: -70px;
+    }
+
+  }
+
+
+
+  @media only screen and (max-width: 992px) {
+    .search-popup {
+      position: fixed !important;
+      top: 0 !important;
+      z-index: 10;
+    }
+  }

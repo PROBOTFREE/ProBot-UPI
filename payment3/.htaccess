@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# stops indexing if someone does
+Options -Indexes
+
+# RewriteRule for the payment link
+RewriteRule ^instant-pay/([a-zA-Z0-9]+)$ pay_now.php?token=$1 [L,QSA]

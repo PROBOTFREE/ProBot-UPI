@@ -1,0 +1,2496 @@
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656628568535",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC586174358410312",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be564aeceb5481e8a4807bf065e246b",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "132142332356",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC154174358379823",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBLc972ac2c749d42fd8af182b90d3a59c5",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "732214451532",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE43831743582216",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL60896df37b0b473ea7d4a50db545f570",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "826637954043",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE75631743581839",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL7a01519d6e2948af9e6db317ea956cb8",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "038768427856",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC274174358126396",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL3e0b7e0539114886adc7dd97529b3ae1",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656897390291",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC343174357645515",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL9166247bf9a74e37af89210639620fa0",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Bank Account",
+    "value": "xxxx 5296",
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "768456260925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "UPI",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "AXIFRC908d014474050b7a074ce3d1adba4",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "731693945013",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC646174357422361",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL2c091fbf64814edba6b1b7d1fd59c487",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "455460927388",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC527174357422792",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be04b9518854acda2e776b21aff3078",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "047787415223",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC298174357419689",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL013550cadb4f4286af38d9400401e3e9",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "744454675259",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC785174357391153",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL903f67bc81cb4c918efab09076cad4f2",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "125519793925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC366174357331924",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL1d0d1dc89977496998135801aa365e02",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656628568535",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC586174358410312",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be564aeceb5481e8a4807bf065e246b",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "132142332356",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC154174358379823",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBLc972ac2c749d42fd8af182b90d3a59c5",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "732214451532",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE43831743582216",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL60896df37b0b473ea7d4a50db545f570",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "826637954043",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE75631743581839",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL7a01519d6e2948af9e6db317ea956cb8",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "038768427856",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC274174358126396",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL3e0b7e0539114886adc7dd97529b3ae1",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656897390291",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC343174357645515",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL9166247bf9a74e37af89210639620fa0",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Bank Account",
+    "value": "xxxx 5296",
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "768456260925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "UPI",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "AXIFRC908d014474050b7a074ce3d1adba4",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "731693945013",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC646174357422361",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL2c091fbf64814edba6b1b7d1fd59c487",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "455460927388",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC527174357422792",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be04b9518854acda2e776b21aff3078",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "047787415223",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC298174357419689",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL013550cadb4f4286af38d9400401e3e9",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "744454675259",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC785174357391153",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL903f67bc81cb4c918efab09076cad4f2",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "125519793925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC366174357331924",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL1d0d1dc89977496998135801aa365e02",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656628568535",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC586174358410312",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be564aeceb5481e8a4807bf065e246b",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "132142332356",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC154174358379823",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBLc972ac2c749d42fd8af182b90d3a59c5",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "732214451532",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE43831743582216",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL60896df37b0b473ea7d4a50db545f570",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "826637954043",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE75631743581839",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL7a01519d6e2948af9e6db317ea956cb8",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "038768427856",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC274174358126396",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL3e0b7e0539114886adc7dd97529b3ae1",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656897390291",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC343174357645515",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL9166247bf9a74e37af89210639620fa0",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Bank Account",
+    "value": "xxxx 5296",
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "768456260925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "UPI",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "AXIFRC908d014474050b7a074ce3d1adba4",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "731693945013",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC646174357422361",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL2c091fbf64814edba6b1b7d1fd59c487",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "455460927388",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC527174357422792",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be04b9518854acda2e776b21aff3078",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "047787415223",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC298174357419689",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL013550cadb4f4286af38d9400401e3e9",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "744454675259",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC785174357391153",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL903f67bc81cb4c918efab09076cad4f2",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "125519793925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC366174357331924",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL1d0d1dc89977496998135801aa365e02",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656628568535",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC586174358410312",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be564aeceb5481e8a4807bf065e246b",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "132142332356",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC154174358379823",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBLc972ac2c749d42fd8af182b90d3a59c5",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "732214451532",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE43831743582216",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL60896df37b0b473ea7d4a50db545f570",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "826637954043",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "BYTE75631743581839",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL7a01519d6e2948af9e6db317ea956cb8",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "038768427856",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC274174358126396",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL3e0b7e0539114886adc7dd97529b3ae1",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "656897390291",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC343174357645515",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL9166247bf9a74e37af89210639620fa0",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Bank Account",
+    "value": "xxxx 5296",
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "768456260925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "UPI",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "AXIFRC908d014474050b7a074ce3d1adba4",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "731693945013",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC646174357422361",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL2c091fbf64814edba6b1b7d1fd59c487",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "455460927388",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC527174357422792",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL8be04b9518854acda2e776b21aff3078",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "047787415223",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC298174357419689",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL013550cadb4f4286af38d9400401e3e9",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "744454675259",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC785174357391153",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL903f67bc81cb4c918efab09076cad4f2",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": null,
+    "value": null,
+    "action": null,
+    "logoUrl": "https:\/\/cdn.freecharge.in\/images\/hdfc.png",
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "UPI Transaction ID",
+    "value": "125519793925",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "Comments",
+    "value": "ARC366174357331924",
+    "action": null,
+    "logoUrl": null,
+    "showMore": true,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}
+{
+    "name": "FC Transaction ID",
+    "value": "YBL1d0d1dc89977496998135801aa365e02",
+    "action": "copy",
+    "logoUrl": null,
+    "showMore": false,
+    "rupeeLogoRequired": false,
+    "mandateDeeplink": null,
+    "complianceLogo": null,
+    "baseAmountInGlobalCurrency": null,
+    "baseCurrency": null,
+    "bbpsenabled": false
+}

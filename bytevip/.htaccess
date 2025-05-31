@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine On
+# Rewrite URLs without .php extension to .php files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)/?$ $1.php [L]
+
+
+# RewriteRule for the payment link
+RewriteRule ^instant-pay/([a-zA-Z0-9]+)$ vippay.php?token=$1 [L,QSA]
+
+##sunpays latest module with payout

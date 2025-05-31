@@ -1,0 +1,1 @@
+$(function(){});$('#tanchuangClose').click(function(){$('#tanchuang').hide()});

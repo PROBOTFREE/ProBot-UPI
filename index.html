@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+  <title>PROBOT UPI</title>
+
+  <!-- custom css link -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!-- google font link -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Source+Sans+Pro:wght@600;700&display=swap">
+<style>
+    .self-centered {
+        align-self: center;
+    }
+    @media (max-width: 768px) {
+    .image-container {
+        display: none;
+    }
+    .onboarding-image {
+        display: none;
+    }
+    .text-content {
+        padding: 20px;
+    }
+    
+    .online-payment-text {
+        text-align: center;
+        font-size: 38px !important;
+    }
+    
+}
+
+</style>
+</head>
+
+<body id="top">
+
+  <!-- 
+    - #HEADER
+  -->
+
+  <header class="header" data-header>
+    <div class="container">
+
+      <div class="overlay" data-overlay></div>
+     
+      <a href="#" style="display: flex; align-items: center; text-decoration: none;">
+  <img src="./assets/images/logo.webp" alt="Logo" width="52" height="52" style="margin-right: 10px;">
+  <h1 class="logo" style="font-size: 24px; color: #333; margin: 0;">PROBOT UPI</h1>
+</a>
+      
+      
+      <nav class="navbar" data-navbar>
+
+        <div class="navbar-top">
+           <img src="./assets/images/logo.webp" alt="Logo" width="52" height="52">
+          <a href="#" class="logo" style="font-size: 24px;">PROBOT UPI</a>
+
+          <button class="nav-close-btn" aria-label="Close Menu" data-nav-close-btn>
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708"/>
+            </svg>
+          </button>
+        </div>
+
+        <ul class="navbar-list">
+
+          <li class="navbar-item self-centered">
+            <a href="#home" class="navbar-link" data-navbar-link>Home</a>
+          </li>
+
+          <li class="navbar-item self-centered">
+            <a href="services" class="navbar-link" data-navbar-link>Services</a>
+          </li>
+
+          <li class="navbar-item self-centered">
+            <a href="about" class="navbar-link" data-navbar-link>About</a>
+          </li>
+
+
+          <li class="navbar-item self-centered">
+            <a href="https://telegram.me/SonixMusicDev" class="navbar-link" data-navbar-link>Contact Us</a>
+          </li>
+          
+          <li class="navbar-item">
+            <a href="buymeacoffee" class="navbar-link" data-navbar-link><img src="./assets/images/buy-me-a-coffee-default-yellow.webp" alt="Buy Me A Coffee" style="height: 46px !important;width: 160px !important;" ></a>
+          </li>
+
+        </ul>
+
+      </nav>
+      
+      <a href="auth/register" class="btn">
+        <span>Sign Up</span>
+      </a>
+
+      <button class="nav-open-btn" aria-label="Open Menu" data-nav-open-btn>
+       <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+        </svg>
+      </button>
+      
+    </div>
+  </header>
+
+  <main>
+
+
+      <!-- HERO -->
+      <section class="hero" id="home">
+        <div class="container">
+
+          <div class="hero-content">
+
+            <h2 class="h2 hero-title">Secure</h2>
+            <h2 class="h2 hero-title-2">Payment</h2>
+
+            <p class="hero-text">
+              Grow your business with reliable, cost-effective payments that give you peace of mind and help you scale.
+            </p>
+
+            <button class="btn-custom-1" onclick="window.location.href='auth/';">Try for free</button>
+          </div>
+
+          <figure class="hero-banner">
+            <img src="./assets/images/hero-banner.webp" width="694" height="529" loading="lazy" alt="hero-banner"
+              class="w-100 banner-animation">
+          </figure>
+
+        </div>
+      </section>
+
+      <!-- SERVICE -->
+      <section class="section service" id="services">
+        <div class="container">
+
+          <h2 class="h2 section-title underline">Our Specialization</h2>
+
+          <ul class="service-list">
+
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                  <img src="./assets/images/stock-dollar.webp" class="d-block mb-4 card-image" width="56" alt="Low-cost">
+                </div>
+
+                <h3 class="h3 title">Low-cost</h3>
+
+                <p class="text">
+                  Competitive exchange rates and low fees.
+                </p>
+
+
+              </div>
+            </li>
+
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                  <img src="./assets/images/lightning-fast.webp" class="d-block mb-4 card-image" width="56" alt="Fast">
+                </div>
+
+                <h3 class="h3 title">Fast</h3>
+
+                <p class="text">
+                  Usually takes within 1-2 business days*
+                </p>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                  <img src="./assets/images/safe-guard.webp" class="d-block mb-4 card-image" width="56" alt="Safe">
+                </div>
+
+                <h3 class="h3 title">Safe</h3>
+
+                <p class="text">
+                  Licensed and regulated in 11 countries.
+                </p>
+
+              </div>
+            </li>
+            
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                  <img src="./assets/images/rewarding.webp" class="d-block mb-4 card-image" width="56" alt="Rewarding">
+                </div>
+
+                <h3 class="h3 title">Rewarding</h3>
+
+                <p class="text">
+                  Earn rewards on every transaction.
+                </p>
+
+              </div>
+            </li>
+            
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                  <img src="./assets/images/transparent.webp" class="d-block mb-4 card-image" width="56" alt="Transparent">
+                </div>
+
+                <h3 class="h3 title">Transparent</h3>
+
+                <p class="text">
+                  All costs are upfront, no hidden charges.
+                </p>
+
+              </div>
+            </li>
+            
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon">
+                 <img src="./assets/images/more-options.webp" class="d-block mb-4 card-image" width="56" alt="More options">
+                </div>
+
+                <h3 class="h3 title">More options</h3>
+
+                <p class="text">
+                 Choose the best delivery method for you.
+                </p>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+      </section>
+      
+      <section style="background-color: white;">
+      <div class="section-container container" >
+        <div class="text-content">
+            <h1 class="online-payment-text">Online payments made easy</h1>
+            
+            <p>We offer all-in-one payment solutions tailored to your business needs. Our reliable systems work seamlessly, and our local experts are here to guide you every step of the way.</p>
+            
+            <button class="btn-custom-1" aria-label="GET STARTED" onclick="window.location.href='https://couponcart.in/auth/register';">
+                  GET STARTED
+                </button>
+        </div>
+        <div class="image-container">
+            <img src="./assets/images/blog-2.webp" alt="Online payment illustration">
+        </div>
+      </div>
+      </section>
+      <!--onboarding-->
+      
+      <section style="background-color: white;">
+      <div class="section-container container" >
+          
+          <div class="onboarding-image">
+            <img src="./assets/images/section_3.webp" width="400" alt="Steps" style="padding: 20px;
+    margin-right: 80px;">
+        </div>
+        
+        <div class="text-content">
+    <h1 class="online-payment-text" style="margin: 0 0 48px; font-size: 40px;">It only takes 1 minute! Simple and fast onboarding</h1>
+    <div class="steps">
+        <div class="step">
+            <div class="step-number">
+                <div class="step-number-inner">01</div>
+            </div>
+            <div class="step-body d-flex align-items-center ps-xl-1">
+                <div class="rellax ps-md-4 ps-xl-5" style="transform: translate3d(8px, -3px, 0px);">
+                    <h3 class="h5 text-gray">Create an account</h3>
+                    <p class="mb-0">Sign up for an account with your name, email, and phone number.</p>
+                </div>
+            </div>
+        </div>
+        <div class="step pt-0 pt-md-4 pb-5">
+            <div class="step-number">
+                <div class="step-number-inner text-info fs-md">02</div>
+            </div>
+            <div class="step-body d-flex align-items-center ps-xl-1">
+                <div class="rellax ps-md-4 ps-xl-5" style="transform: translate3d(10px, 6px, 0px);">
+                    <h3 class="h5 text-gray">Add a payment method</h3>
+                    <p class="mb-0">Using your debit card or a bank transfer, set up your first plan.</p>
+                </div>
+            </div>
+        </div>
+        <div class="step pt-0 pt-md-4 pb-5">
+            <div class="step-number">
+                <div class="step-number-inner text-info fs-md">03</div>
+            </div>
+            <div class="step-body d-flex align-items-center ps-xl-1">
+                <div class="rellax ps-md-4 ps-xl-5" style="transform: translate3d(8px, 13px, 0px);">
+                    <h3 class="h5 text-gray">Integrate PROBOT UPI SDK with your platform</h3>
+                    <p class="mb-0">Sit back, relax & let your money work for you all day, every day.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+      </div>
+      </section>
+      
+      <section>
+      <div >
+          <div class="custom-card">
+        <div class="custom-content-wrapper">
+            <div class="custom-text-content">
+                <h2 class="online-payment-text">It only takes 1 minute! Simple and fast onboarding</h2>
+                <p>Trust is our currency. We are committed to the security of your money and the protection of your account.</p>
+                <div class="custom-feature-container">
+                    <div class="custom-feature">
+                        <img src="./assets/images/robust.webp" width="40" alt="Robust" style="margin: 0 80px 16px 0;">
+                        
+                        <h3>Robust API</h3>
+                        <p>Get everything you need to create secure, perfectly rendered payment pages on all devices.</p>
+                    </div>
+                    <div class="custom-feature">
+                        <img src="./assets/images/sdk.webp" width="40" alt="Robust" style="margin: 0 80px 16px 0;">
+                        
+                        <h3>Simple SDKs</h3>
+                        <p>Take payments quicker and easier with more features in your iOS & Android apps.</p>
+                    </div>
+                    <div class="custom-feature">
+                        <img src="./assets/images/fraud.webp" width="40" alt="Robust" style="margin: 0 80px 16px 0;">
+                        
+                        <h3>Fraud Protection</h3>
+                        <p>Our range of anti-fraud options are designed to be simple, accessible and affordable for any merchant.</p>
+                    </div>
+                    <div class="custom-feature">
+                        <img src="./assets/images/simple.webp" width="40" alt="Robust" style="margin: 0 80px 16px 0;">
+                        
+                        <h3>Simple</h3>
+                        <p>You don�t need to be a tech expert to understand fraud protection. Our toolkit is easy-to-use and easy to understand.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="onboarding-image">
+            <img src="./assets/images/section_2.webp" alt="Dashboard" class="custom-image">
+            </div>
+        </div>
+    </div>
+        </div>
+      </section>
+      
+      
+      
+      <section>
+      <div >
+          <div class="custom-card-2">
+        <div class="custom-content-wrapper">
+            <div class="custom-text-content">
+                <h2>Made for merchants Built for developers</h2>
+                <p>PROBOT UPI's Rapid API combines all the most popular payment solutions in a single package and includes fraud prevention, hosted payments, transparent redirect and direct connection to help developers create perfectly rendered payment pages securely on all devices.</p>
+                <button class="btn" style="color: white;     margin: 48px 0px 8px;" aria-label="GET STARTED" onclick="window.location.href='https://couponcart.in/auth/register';">
+                  GET STARTED
+                </button>
+            </div>
+        </div>
+    </div>
+        </div>
+      </section>
+     
+      <section class="trusted-section">
+    <div class="text-content">
+        <h2>Trusted by</h2>
+    </div>
+
+    <!-- Swiper Slider -->
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/rM552o71MDE4WJeXhB9MrU0gAOKt1n7KGxZXyvxn.svg" alt="Brand">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/EVwg7n0bMgSIgRun7f7ZPvhuD93zHlvuxaWVPuLj.svg" alt="Brand">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/BbtOEt1NAxzRIu1fBt08UC0r8atEZ6d30CM7b2B3.svg" alt="Brand">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/ZVeqie06De9yb5WPDh5lBfeuNV3gU2jgwuBBbnCU.png" alt="Brand">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/EzrfNXn3sAXfkP3GQMQUFPiercFspZqx0LghffQa.svg" alt="Brand">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="brand-card">
+                    <img src="https://business.upitranzact.com/storage/app/brand/QMFb9J4vo6xI00fumiupdp5cgL44SphKXMXL2sMH.svg" alt="Brand">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+      
+      
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+
+    <div class="footer-bottom">
+      <p> Copyright © <time id="year"></time> | Made With 💖 By Shauryan Singh </p>
+    </div>
+
+  </footer>
+
+  <!-- GO TO TOP -->
+  <a href="#top" class="go-top active" aria-label="Go To Top" data-go-top>
+    <img src="./assets/images/up-arrow.webp" alt="Go To Top" width="24" height="24">
+  </a>
+
+  <!-- custom js link -->
+  <script src="./assets/js/script.js"></script>
+  
+
+  <!-- ionicon link -->
+
+  <script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+    <script>
+    var swiper;
+
+function initSwiper() {
+    if (window.innerWidth < 1024) {
+        if (!swiper) {
+            swiper = new Swiper(".mySwiper", {
+                slidesPerView: 4, /* Default for phones */
+                spaceBetween: 20, /* Space between slides */
+                loop: true, /* Enable looping only on mobile */
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false,
+                },
+                breakpoints: {
+                    768: { slidesPerView: 4 }, /* Tablets */
+                    600: { slidesPerView: 2 }, /* Small tablets */
+                    0: { slidesPerView: 2 }     /* Phones */
+                }
+            });
+        }
+    } else {
+        if (swiper) {
+            swiper.destroy(true, true);
+            swiper = null;
+        }
+    }
+}
+
+/* Initialize on load */
+initSwiper();
+
+/* Reinitialize on window resize */
+window.addEventListener("resize", initSwiper);
+</script>
+
+</body>
+
+</html>

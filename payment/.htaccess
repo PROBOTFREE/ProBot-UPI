@@ -1,0 +1,14 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# Stop Indexing if someone does
+Options -Indexes
+
+# RewriteRule for the payment link
+RewriteRule ^instant-pay/([a-zA-Z0-9]+)$ pay.php?token=$1 [L,QSA]
+RewriteRule ^instant-pay/hdfcupipay/([a-zA-Z0-9]+)$ cxrpay.php?token=$1 [L,QSA]
+RewriteRule ^instant-pay/confirm/([a-zA-Z0-9]+)$ cxrpay2.php?token=$1 [L,QSA]
+
+# Disable X-Powered-By header
+php_flag expose_php Off
+

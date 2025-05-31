@@ -1,0 +1,30 @@
+# Disable directory listing
+Options -Indexes
+
+# Deny access to all files
+Deny from all
+
+# Restrict access to specific IP addresses or IP ranges
+Order deny,allow
+Deny from all
+
+# Enforce HTTPS/SSL (if available)
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Disable server-side scripting
+RemoveHandler .php .php5 .phtml .cgi .pl .py .pyc .pyo
+
+# Block access to hidden files and directories
+RedirectMatch 403 /\..*$
+
+# Prevent direct access to specific file extensions
+<FilesMatch "\.(zip|png|jpg)$">
+    Order deny,allow
+    Deny from all
+</FilesMatch>
+
+# Additional security measures can be added here
+
+# End of .htaccess

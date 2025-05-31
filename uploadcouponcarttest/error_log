@@ -1,0 +1,200 @@
+[04-Apr-2025 14:07:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'secret' in 'where clause' in /home/couponca/public_html/uploadcouponcarttest/secure_download.php:32
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/secure_download.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 32
+[04-Apr-2025 14:07:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'secret' in 'where clause' in /home/couponca/public_html/uploadcouponcarttest/secure_download.php:32
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/secure_download.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 32
+[04-Apr-2025 14:08:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'secret' in 'where clause' in /home/couponca/public_html/uploadcouponcarttest/secure_download.php:32
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/secure_download.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 32
+[04-Apr-2025 14:09:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'secret' in 'where clause' in /home/couponca/public_html/uploadcouponcarttest/secure_download.php:32
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/secure_download.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 32
+[04-Apr-2025 14:10:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'secret' in 'where clause' in /home/couponca/public_html/uploadcouponcarttest/secure_download.php:32
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/secure_download.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 32
+[04-Apr-2025 14:12:40 UTC] PHP Notice:  readfile(): Read of 8192 bytes failed with errno=21 Is a directory in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 77
+[04-Apr-2025 14:15:00 UTC] PHP Warning:  Undefined variable $file in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 11
+[04-Apr-2025 14:15:00 UTC] PHP Warning:  Undefined variable $key in /home/couponca/public_html/uploadcouponcarttest/secure_download.php on line 39
+[04-Apr-2025 15:50:28 UTC] PHP Warning:  Undefined variable $customer_message in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 178
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Undefined array key "version" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 14
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Undefined array key "changelog" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 15
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Undefined array key "file" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 18
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 18
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Undefined array key "file" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 21
+[04-Apr-2025 15:56:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 21
+[04-Apr-2025 16:29:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[04-Apr-2025 16:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:7
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/latest_version.php(7): mysqli->query()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 7
+[05-Apr-2025 12:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 12:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_error() in /home/couponca/public_html/uploadcouponcarttest/latest_version.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/latest_version.php on line 14
+[05-Apr-2025 13:55:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/check_update.php on line 13
+[05-Apr-2025 13:55:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/check_update.php on line 14
+[05-Apr-2025 13:55:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/check_update.php on line 15
+[05-Apr-2025 13:55:12 UTC] PHP Warning:  Undefined array key 1 in /home/couponca/public_html/uploadcouponcarttest/check_update.php on line 6
+[05-Apr-2025 13:55:12 UTC] PHP Warning:  Undefined array key 2 in /home/couponca/public_html/uploadcouponcarttest/check_update.php on line 6
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 83
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 83
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 86
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 86
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 89
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 89
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 95
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 95
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 99
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 99
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 100
+[07-Apr-2025 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 100
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 83
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 83
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 86
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 86
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 89
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 89
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 95
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 95
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 99
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 99
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 100
+[07-Apr-2025 15:34:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_customer.php on line 100
+[07-Apr-2025 15:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 299
+[07-Apr-2025 15:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 299
+[07-Apr-2025 15:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 299
+[07-Apr-2025 15:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 299
+[07-Apr-2025 15:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 296
+[07-Apr-2025 15:44:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:44:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:44:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:44:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:44:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:44:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:46:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 301
+[07-Apr-2025 15:51:58 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:16 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:17 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:17 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:17 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:38 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:40 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:40 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:40 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:53:41 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:56:05 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:56:08 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:56:08 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:56:08 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:56:38 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:57:00 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[07-Apr-2025 15:57:00 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 363
+[08-Apr-2025 09:28:29 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 9
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined variable $customer in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 228
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 228
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined array key "domain" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 231
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined array key "allowed_ip" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 234
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined array key "expiry_date" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 240
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined array key "status" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 244
+[08-Apr-2025 09:29:52 UTC] PHP Warning:  Undefined array key "status" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 245
+[08-Apr-2025 09:35:08 UTC] PHP Warning:  Undefined array key "domain" in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 231
+[08-Apr-2025 09:56:02 UTC] PHP Warning:  Undefined variable $message in /home/couponca/public_html/uploadcouponcarttest/edit_admin.php on line 250
+[08-Apr-2025 10:37:34 UTC] PHP Warning:  Undefined variable $id in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:38:08 UTC] PHP Warning:  Undefined variable $id in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:39:21 UTC] PHP Warning:  Undefined variable $id in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:40:51 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:46:12 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:46:14 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:46:57 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:47:22 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:47:24 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:47:24 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:47:25 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[08-Apr-2025 10:49:03 UTC] PHP Warning:  Undefined array key "admin_id" in /home/couponca/public_html/uploadcouponcarttest/upload.php on line 284
+[09-Apr-2025 15:30:34 UTC] PHP Warning:  Undefined array key "id" in /home/couponca/public_html/uploadcouponcarttest/view_files.php on line 11
+[09-Apr-2025 15:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'couponca_upload.uploads' doesn't exist in /home/couponca/public_html/uploadcouponcarttest/view_files.php:43
+Stack trace:
+#0 /home/couponca/public_html/uploadcouponcarttest/view_files.php(43): mysqli->prepare()
+#1 {main}
+  thrown in /home/couponca/public_html/uploadcouponcarttest/view_files.php on line 43

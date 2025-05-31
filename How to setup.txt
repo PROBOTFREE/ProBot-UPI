@@ -1,0 +1,92 @@
+Guide to Setting Up Your upi gateway
+
+
+Step 1: Edit the Database Functions File
+
+    Locate the File:
+        Find the file dbFunctions.php within the pages directory of your project.
+        Open this file for editing using VS Code or your preferred code editor.
+
+    Make Necessary Changes:
+        Change the URL couponcart.in to yourdomain.com.
+        Update probot_tohost_bot to your Telegram bot username.
+
+Step 2: Update the Telegram Bot API Key
+
+    Get Your API Key:
+        Obtain your Telegram Bot API key from BotFather.
+
+    Edit the dbFunctions.php File:
+        Navigate to line number 337.
+        Update the following line:
+
+        php
+
+        $bot_token = 'YOURTGBOT'; // Replace with your bot's token
+
+        Replace 'YOURTGBOT' with your actual Telegram Bot API key.
+
+    Update the tg.php File:
+        In the public_html directory, locate the tg.php file.
+        Replace 'YOURTGBOT' with your actual Telegram Bot API key in this file as well.
+
+Step 3: Activate Your Telegram Bot
+
+    Run the Activation URL:
+        Open your browser and run the following URL: https://[yourdomain.com]/tg.php.
+        Replace [yourdomain.com] with your actual website URL.
+        Example: https://example.com/tg.php.
+
+    Completion:
+        Your Telegram bot is now set up and operational.
+
+Notes
+
+    Ensure all changes are saved.
+    Upload the updated files to your server if you are working locally.
+
+Setting Up Cronjob for cPanel and Hostinger
+cPanel
+
+Set the time interval to 1 minute for the following commands:
+
+    Command 1:
+
+    sh
+
+wget --spider -O - https://yourdomain.com/crons/cron.php >/dev/null 2>&1
+
+Command 2:
+
+sh
+
+curl --silent https://yourdomain.com/crons/cron.php
+
+Command 3:
+
+sh
+
+    wget -O /dev/null https://yourdomain.com/crons/cron.php >/dev/null 2>&1
+
+Hostinger
+
+Set the time interval to 1 minute for the following command:
+
+    Command:
+
+    sh
+
+    wget -O /dev/null https://yourdomain.com/crons/cron.php
+
+UPI ID and Payment Handling
+
+    Setting up the cronjob will automatically fetch the UPI ID.
+    Accept payments of any amount on the current date, such as ₹1 or more, for merchant transactions.
+
+Final URLs for crons
+
+    https://yourdomain.com/crons/cron.php
+    https://yourdomain.com/crons/cron1.php
+    https://yourdomain.com/crons/cron2.php
+    https://yourdomain.com/crons/cron3.php
+    https://yourdomain.com/crons/cron4.php

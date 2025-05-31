@@ -1,0 +1,121 @@
+
+[02-Mar-2025 23:44:16 Asia/Kolkata] PHP Notice:  Undefined variable: token in /home/praiseth/public_html/couponcart/payment3/success.php on line 15
+[02-Mar-2025 23:44:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/praiseth/public_html/couponcart/pages/dbFunctions.php:233
+Stack trace:
+#0 /home/praiseth/public_html/couponcart/payment3/success.php(17): getXbyY('SELECT order_id...')
+#1 {main}
+  thrown in /home/praiseth/public_html/couponcart/pages/dbFunctions.php on line 233
+[02-Mar-2025 18:21:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/praiseth/public_html/couponcart/payment3/success.php on line 5
+[03-Mar-2025 12:06:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:06:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:08:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:08:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:08:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function setX() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:09:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:09:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:11:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:12:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:12:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:12:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function executeQuery() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:20:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:20:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:20:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:20:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:20:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:27:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/praiseth/public_html/couponcart/payment3/success.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 41
+[03-Mar-2025 12:34:11 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:13 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/praiseth/public_html/couponcart/payment3/success.php on line 40
+[03-Mar-2025 12:34:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/praiseth/public_html/couponcart/payment3/success.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/payment3/success.php on line 40

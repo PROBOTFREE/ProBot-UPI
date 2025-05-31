@@ -1,0 +1,99 @@
+[03-Mar-2025 12:10:13 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:14 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 19
+[03-Mar-2025 12:11:52 UTC] PHP Warning:  include(/../auth/config.php): Failed to open stream: No such file or directory in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 12
+[03-Mar-2025 12:11:52 UTC] PHP Warning:  include(/../auth/config.php): Failed to open stream: No such file or directory in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 12
+[03-Mar-2025 12:11:52 UTC] PHP Warning:  include(): Failed opening '/../auth/config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 12
+[03-Mar-2025 12:16:26 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:28 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:28 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:47 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 28
+[03-Mar-2025 12:19:24 UTC] PHP Warning:  Undefined variable $conn in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 35
+[03-Mar-2025 12:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/praiseth/public_html/couponcart/admin/dashboard.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 35
+[03-Mar-2025 12:19:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH1" in /home/praiseth/public_html/couponcart/admin/dashboard.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 40
+[03-Mar-2025 12:20:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH1" in /home/praiseth/public_html/couponcart/admin/dashboard.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 40
+[03-Mar-2025 12:20:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH1" in /home/praiseth/public_html/couponcart/admin/dashboard.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 40
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $cxr_total_amount_success in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 95
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $num_rows in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 115
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $num_orders in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 135
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_year_vs_lifetime in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 287
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $total_amount_last_month in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 299
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_six_months in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 303
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_six_months in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 304
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_six_months in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 305
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $total_amount_last_six_months in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 314
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 318
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 319
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_month_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 320
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $total_amount_last_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 329
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_six_months_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 333
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_six_months_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 334
+[03-Mar-2025 12:20:33 UTC] PHP Warning:  Undefined variable $percentage_last_six_months_vs_year in /home/praiseth/public_html/couponcart/admin/dashboard.php on line 335
+[08-Mar-2025 08:16:58 UTC] PHP Parse error:  Unclosed '{' on line 68 in /home/praiseth/public_html/couponcart/admin/index.php on line 199
+[08-Mar-2025 08:17:20 UTC] PHP Parse error:  Unclosed '{' on line 68 in /home/praiseth/public_html/couponcart/admin/index.php on line 199
+[08-Mar-2025 08:17:25 UTC] PHP Parse error:  Unclosed '{' on line 68 in /home/praiseth/public_html/couponcart/admin/index.php on line 199

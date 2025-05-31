@@ -1,0 +1,103 @@
+
+RewriteEngine On
+
+# Redirect HTTP to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Rewrite URLs without .php extension to .php files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)/?$ $1.php [L]
+
+# Rewrite URLs without .php extension to .php files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^([^\.]+)/?$ $1.html [L]
+
+
+Options -Indexes
+
+#utr for bharatpe and google pay
+
+RewriteRule ^instantpay/bharatpe/payment-verify payment4/verify.php [NC,L]
+RewriteRule ^instantpay/googlepay/payment-verify payment5/verify.php [NC,L]
+
+#this is for utl for payment and status
+RewriteRule ^order/payment-status  payment/payment_status.php [NC,L]
+RewriteRule ^order2/payment-status payment2/payment_status.php [NC,L]
+RewriteRule ^order3/payment-status payment3/payment_status.php [NC,L]
+RewriteRule ^order4/payment-status payment4/payment_status.php [NC,L]
+RewriteRule ^order5/payment-status payment5/payment_status.php [NC,L]
+
+RewriteRule ^api/create-order payment/create_order.php [NC,L]
+RewriteRule ^api/check-order-status payment/check_order.php [NC,L]
+RewriteRule ^api/bank/create-order payment/bank-payout.php [NC,L]
+RewriteRule ^api/upi/create-order payment/upi-payout.php [NC,L]
+RewriteRule ^api/payout-status payment/payout-status.php [NC,L]
+
+
+
+RewriteRule ^api/instance/events/google-pay corefilesinstance/googlepay/googlepay.php [NC,L]
+RewriteRule ^api/instance/verify/google-pay corefilesinstance/googlepay/googlepayverify.php [NC,L]
+
+# Set Content Security Policy (CSP) header (adjust as needed)
+Header set Referrer-Policy "strict-origin-when-cross-origin"
+
+
+# Prevent clickjacking
+Header always append X-Frame-Options SAMEORIGIN
+
+# Prevent content sniffing
+Header set X-Content-Type-Options "nosniff"
+
+# Enable HTTP Strict Transport Security (HSTS) for secure HTTPS connections
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+# X-XSS-Protection header
+Header set X-XSS-Protection "1; mode=block"
+
+# Block access to .env and other sensitive files
+<FilesMatch "\.(env|ini|log|conf|htaccess|htpasswd)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+##sunpays latest module with payout
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php8_module>
+   php_flag display_errors On
+   php_value max_execution_time -1
+   php_value max_input_time -1
+   php_value max_input_vars 10000
+   php_value memory_limit 1024M
+   php_value post_max_size 1024M
+   php_value session.gc_maxlifetime 14400
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php81"
+   php_value upload_max_filesize 1024M
+   php_flag zlib.output_compression Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag display_errors On
+   php_value max_execution_time -1
+   php_value max_input_time -1
+   php_value max_input_vars 10000
+   php_value memory_limit 1024M
+   php_value post_max_size 1024M
+   php_value session.gc_maxlifetime 14400
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php81"
+   php_value upload_max_filesize 1024M
+   php_flag zlib.output_compression Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php81” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
