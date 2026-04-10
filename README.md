@@ -17,8 +17,7 @@
 
 ## 📸 Screenshots
 
-<img src="https://your-screenshot-link.com/homepage.png" width="400"/>
-<img src="https://your-screenshot-link.com/payment.png" width="400"/>
+Currently live at -  https://couponcart.in
 
 ---
 
