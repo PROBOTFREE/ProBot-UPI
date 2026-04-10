@@ -1,10 +1,10 @@
-# 🤖 ProBot UPI
+# ProBot UPI
 
 **ProBot UPI** is a lightweight and secure UPI payment integration system designed for web projects. It allows seamless QR-based UPI payments using custom payment links and supports validation with Paytm, GPay, and PhonePe.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 💸 Instant UPI Payments via QR
 - ✅ Supports GPay, PhonePe, Paytm
@@ -15,7 +15,7 @@
 
 ---
 
-## 📸 Screenshots
+## Website
 
 Currently live at -  https://couponcart.in
 
